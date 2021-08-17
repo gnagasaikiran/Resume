@@ -26,6 +26,7 @@ export function EduSection({ items }: any) {
       <Flex jc="space-between">
         <div>{data.institution}</div>
         <em>{data.grade}</em>
+        <em>{data.college}</em>
       </Flex>
     </div>
   ));
