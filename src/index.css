@@ -1,0 +1,19 @@
+@import "antd/dist/antd.css";
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 0.65rem;
+}
+
+@page {
+  size: A4;
+}
+
+ul, li{
+  font-size: 0.65rem;
+}
+
+p{
+  margin: 0;
+}
