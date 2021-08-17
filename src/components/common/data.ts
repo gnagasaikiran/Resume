@@ -141,7 +141,7 @@ export const education = {
     {
       institution: "JNTU, Kakinada",
       years: "2010 - 2014",
-      college: "Vishnu Institute of College",
+      college: "Vishnu Institute of Technology",
       // grade: "8.3 CGPA",
       degree: "B.Tech",
       // specialization: "Masters in Cloud Technology",
